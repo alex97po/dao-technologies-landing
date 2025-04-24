@@ -243,7 +243,8 @@
 
 @media (max-width: 768px) {
   .portfolio-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: 1fr; /* Single column layout for mobile */
+    gap: 1.5rem;
   }
   
   .modal-content {
@@ -251,6 +252,10 @@
   }
   
   .gallery {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+  }
+  
+  .portfolio-image {
+    height: 180px; /* Slightly smaller height for mobile */
   }
 }

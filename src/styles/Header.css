@@ -49,8 +49,9 @@
 }
 
 @media (max-width: 768px) {
-  .container {
-    flex-direction: row;
+  .header .container {
+    flex-direction: row !important; /* Override global styles to keep row layout for header */
+    justify-content: center; /* Center the logo */
     align-items: center;
   }
   
