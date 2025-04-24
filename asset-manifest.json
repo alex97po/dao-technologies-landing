@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9454e2ec.css",
+    "main.css": "/static/css/main.728f8353.css",
     "main.js": "/static/js/main.222bd688.js",
     "static/js/453.7e5fe5fa.chunk.js": "/static/js/453.7e5fe5fa.chunk.js",
     "static/media/Slide 6-1.png": "/static/media/Slide 6-1.b79917f83cf341d8e4d4.png",
@@ -34,12 +34,12 @@
     "static/media/2025-04-22 13.58.31.jpg": "/static/media/2025-04-22 13.58.31.959e8b45b1a04e10ad3c.jpg",
     "static/media/Business Sign In And See Appointment.jpg": "/static/media/Business Sign In And See Appointment.1b623866333a8d175ad6.jpg",
     "index.html": "/index.html",
-    "main.9454e2ec.css.map": "/static/css/main.9454e2ec.css.map",
+    "main.728f8353.css.map": "/static/css/main.728f8353.css.map",
     "main.222bd688.js.map": "/static/js/main.222bd688.js.map",
     "453.7e5fe5fa.chunk.js.map": "/static/js/453.7e5fe5fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9454e2ec.css",
+    "static/css/main.728f8353.css",
     "static/js/main.222bd688.js"
   ]
 }
